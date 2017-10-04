@@ -31,7 +31,7 @@
 **[能源轉型白皮書-網站](http://energywhitepaper.tw/)**
 - 政府為推動能源轉型，已於 106 年 4 月 24 日核定「[能源發展綱領](http://web3.moeaboe.gov.tw/ecw/populace/news/News.aspx?kind=2&menu_id=56&news_id=2565)」修正案，而「能源轉型白皮書」為落實「能源發展綱領」之重點行動方案 (計畫)
 
-**[能源資料視覺化](https://public.tableau.com/profile/doenergy#!/)
+**[能源資料視覺化](https://public.tableau.com/profile/doenergy#!/)**
 - 使用 Tableau Public 建立的資料視覺化
 
 # 其他參考資
