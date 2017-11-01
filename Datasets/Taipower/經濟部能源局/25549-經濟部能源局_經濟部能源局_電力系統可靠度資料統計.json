@@ -1,7 +1,7 @@
 {
     "title": "經濟部能源局_電力系統可靠度資料統計",
     "node": "25549",
-    "datapackage_version": "2017-11-02 05:57:28",
+    "datapackage_version": "2017-11-02 06:50:49",
     "資料集描述": "系統平均停電時間SAIDI(System Average Interruption Duration Index)及系統平均停電次數SAIFI(System Average Interruption Frequency Index,SAIFI)係國際電業常用來衡量供電可靠度的指標，其數值越低越好。台電公司為我國唯一輸電業，在國內並無同級民營業者可比較，爰經濟部能源局整理我國及各國SAIDI與SAIFI數值，讓大家對電力系統可靠度有更深一層的了解與認知。",
     "主要欄位說明": "年度、國家、SAIDI、SAIFI",
     "資料資源": {

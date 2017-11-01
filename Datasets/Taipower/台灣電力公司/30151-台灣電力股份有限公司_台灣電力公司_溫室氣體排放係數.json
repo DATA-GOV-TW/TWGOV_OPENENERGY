@@ -1,0 +1,58 @@
+{
+    "title": "台灣電力公司_溫室氣體排放係數",
+    "node": "30151",
+    "datapackage_version": "2017-11-02 06:39:32",
+    "資料集描述": "提供國家電力排放係數及台電公司排放係數比較表",
+    "主要欄位說明": "年度、國家電力排放係數、台電公司排放係數",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年度、國家電力排放係數、台電公司排放係數",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "0",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d061001/台灣電力公司_溫室氣體排放係數.csv",
+            "資源描述": "國家電力排放係數及台電公司排放係數比較表",
+            "資料資源更新時間": "2017/10/27 09:43",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=30151&md5_url=52033394a1ae40aab65cdbebfc351e73",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=30151&md5_url=52033394a1ae40aab65cdbebfc351e73",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=30151&md5_url=52033394a1ae40aab65cdbebfc351e73",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "國家電力排放係數",
+                "台電公司排放係數"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 12,
+            "check_time": 1509068616,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "林先生 (0223667219;23667219)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/03/31",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 13:44",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "3961",
+        "下載次數:": "736",
+        "意見數:": "1"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

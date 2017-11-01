@@ -1,0 +1,61 @@
+{
+    "title": "各行政區每年每季雲對地落雷次數統計",
+    "node": "9713",
+    "datapackage_version": "2017-11-02 06:36:18",
+    "資料集描述": "提供各行政區每年每季雲對地落雷次數統計",
+    "主要欄位說明": "縣市、鄉鎮、季節",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "縣市、鄉鎮、季節",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1000",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d546003/001.csv",
+            "資源描述": "",
+            "資料資源更新時間": "2017/10/27 09:41",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=9713&md5_url=4644c69627e306aebe0f3ca69632efbb",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=9713&md5_url=4644c69627e306aebe0f3ca69632efbb",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=9713&md5_url=4644c69627e306aebe0f3ca69632efbb",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "106年台灣各縣市行政區每季落雷次數統計",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 364,
+            "check_time": 1509068483,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "陳先生 (0280782406;0280782222;0280782405;0280782222)",
+    "更新頻率": "每季",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2014/12/18",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/30 15:25",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "生活安全及品質",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "3283",
+        "下載次數:": "256",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "TXT"
+    ]
+}

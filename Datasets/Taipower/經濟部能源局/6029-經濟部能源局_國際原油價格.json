@@ -1,7 +1,7 @@
 {
     "title": "國際原油價格",
     "node": "6029",
-    "datapackage_version": "2017-11-02 05:54:00",
+    "datapackage_version": "2017-11-02 06:47:40",
     "資料集描述": "國際原油價格每週平均價格，包含西德州、杜拜及北海布蘭特",
     "主要欄位說明": "日期、西德州(美元/桶)、杜拜(美元/桶)、北海布蘭特(美元/桶)",
     "資料資源": {
@@ -58,7 +58,6 @@
         "意見數:": "3"
     },
     "resource_type": [
-        "CSV",
-        "https://quality.data.gov.tw/dq_download_csv.php?nid=16459&md5_url=1b2705a4930d29fd3a96a883f7f5f8c6"
+        "KML"
     ]
 }

@@ -1,0 +1,58 @@
+{
+    "title": "台灣電力公司_柴油採購價格及數量",
+    "node": "29944",
+    "datapackage_version": "2017-11-02 06:38:52",
+    "資料集描述": "提供台電公司過去四年柴油年平均採購價格及數量",
+    "主要欄位說明": "年度，數量，平均單價(公秉)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年度，數量，平均單價(公秉)",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "4",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d009005/台灣電力公司_柴油採購價格及數量.csv",
+            "資源描述": "提供台電公司過去四年柴油年平均採購價格及數量",
+            "資料資源更新時間": "2017/10/27 09:43",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=29944&md5_url=13b9729913845407be52491c4a4fe6a5",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=29944&md5_url=13b9729913845407be52491c4a4fe6a5",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=29944&md5_url=13b9729913845407be52491c4a4fe6a5",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "柴油採購數量(公秉)",
+                "平均單價(元/秉，未稅)\n"
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 6,
+            "check_time": 1509068589,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "陳小姐 (0223666744;0223666742)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/03/31",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/04/25 13:24",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "782",
+        "下載次數:": "211",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

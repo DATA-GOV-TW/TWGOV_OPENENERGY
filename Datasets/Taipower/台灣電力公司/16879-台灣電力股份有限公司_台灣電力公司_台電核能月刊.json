@@ -1,0 +1,59 @@
+{
+    "title": "台灣電力公司_台電核能月刊",
+    "node": "16879",
+    "datapackage_version": "2017-11-02 06:37:01",
+    "資料集描述": "本資料集為提供【台電核能月刊】資料，可供大眾瞭解核能電力，俾利國人與政府共同找到足可支持台灣未來數十年經濟與民生發展所需的能源。",
+    "主要欄位說明": "月刊期別、內容網頁連結",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "月刊期別、內容網頁連結",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "20",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d027001/台電核能月刊.csv",
+            "資源描述": "",
+            "資料資源更新時間": "2017/10/27 09:41",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=16879&md5_url=866bd289741fbc16f2a9d6322f26bb51",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=16879&md5_url=866bd289741fbc16f2a9d6322f26bb51",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=16879&md5_url=866bd289741fbc16f2a9d6322f26bb51",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "期別\t出版年月\t下載網址"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 31,
+            "check_time": 1509068507,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "莊小姐 (0223667129;0223667762)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/29",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/30 15:25",
+    "關鍵字": [
+        "1",
+        "台電核能月刊"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "3470",
+        "下載次數:": "409",
+        "意見數:": "7"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

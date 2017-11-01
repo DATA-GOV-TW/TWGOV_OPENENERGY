@@ -1,0 +1,65 @@
+{
+    "title": "台灣電力公司_汽電共生購電實績",
+    "node": "32985",
+    "datapackage_version": "2017-11-02 06:39:42",
+    "資料集描述": "提供台電公司95年至今每月份之汽電共生購電度數與金額",
+    "主要欄位說明": "年次、月份、度數、金額",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年次、月份、度數、金額",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "130",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d007015/台灣電力公司_汽電共生購電實績.csv",
+            "資源描述": "95年至今每月份之購電度數與金額",
+            "資料資源更新時間": "2016/10/27 13:22",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32985&md5_url=23cbd03ec31798c267908fb7c675cc6e",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32985&md5_url=23cbd03ec31798c267908fb7c675cc6e",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32985&md5_url=23cbd03ec31798c267908fb7c675cc6e",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年份",
+                "月份",
+                "度數\n(千度)",
+                "金額\n(千元)",
+                "平均單價\n(元/度)"
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 141,
+            "check_time": 1509068620,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "楊先生 (0223668487)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/07/04",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/30 15:25",
+    "關鍵字": [
+        "2",
+        "汽電共生",
+        "購電"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.taipower.com.tw/content/announcement/ann01.aspx?BType=31",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "850",
+        "下載次數:": "242",
+        "意見數:": "1"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

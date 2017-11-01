@@ -1,7 +1,7 @@
 {
     "title": "經濟部能源局_新聞稿",
     "node": "16445",
-    "datapackage_version": "2017-11-02 05:56:01",
+    "datapackage_version": "2017-11-02 06:49:27",
     "資料集描述": "經濟部能源局主管相關業務(石油及天然氣、電力、再生能源、節約能源、總體能源等)之重要焦點新聞資訊或相關議題回應",
     "主要欄位說明": "標題、發布日期、內容、聯絡資訊",
     "資料資源": {
@@ -24,7 +24,7 @@
             "encoding": "UTF-8",
             "file_type": "xml",
             "amount": 0,
-            "check_time": 1509573349,
+            "check_time": 1509576555,
             "messages": [
                 "[007] children_are_field_element(): 非單層結構。\n"
             ]

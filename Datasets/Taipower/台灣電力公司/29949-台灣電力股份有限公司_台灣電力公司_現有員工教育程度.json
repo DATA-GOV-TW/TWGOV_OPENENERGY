@@ -1,0 +1,63 @@
+{
+    "title": "台灣電力公司_現有員工教育程度",
+    "node": "29949",
+    "datapackage_version": "2017-11-02 06:38:59",
+    "資料集描述": "定期提供現有員工教育程度之人數統計表",
+    "主要欄位說明": "教育程度、派用僱用類別",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "教育程度、派用僱用類別",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "3",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d096005/台灣電力公司_現有員工教育程度.csv",
+            "資源描述": "定期提供台電現有員工教育程度之人數統計表",
+            "資料資源更新時間": "2017/10/27 09:43",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=29949&md5_url=49514c65ccabb93d253f893876dec585",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=29949&md5_url=49514c65ccabb93d253f893876dec585",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=29949&md5_url=49514c65ccabb93d253f893876dec585",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "台灣電力公司_現有員工教育程度(106年9月)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 4,
+            "check_time": 1509068594,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "許先生 (0223667358;0223667351)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/03/31",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/30 15:25",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "839",
+        "下載次數:": "205",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

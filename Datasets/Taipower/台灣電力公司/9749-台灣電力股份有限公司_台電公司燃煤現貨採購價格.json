@@ -1,0 +1,65 @@
+{
+    "title": "台電公司燃煤現貨採購價格",
+    "node": "9749",
+    "datapackage_version": "2017-11-02 06:36:22",
+    "資料集描述": "台電公司燃煤現貨採購價格與市場價格比較資料資料",
+    "主要欄位說明": "採購案號、燃煤類別、平均決標熱值、平均決標價格、決標當時市場參考價格",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "採購案號、燃煤類別、平均決標熱值、平均決標價格、決標當時市場參考價格",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "50",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d009002/001.csv",
+            "資源描述": "",
+            "資料資源更新時間": "2017/10/27 09:41",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=9749&md5_url=d447f8b58a6ded20a221f0591210fdd5",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=9749&md5_url=d447f8b58a6ded20a221f0591210fdd5",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=9749&md5_url=d447f8b58a6ded20a221f0591210fdd5",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "採購案號",
+                "燃煤種類",
+                "決標日期",
+                "平均決標熱值\n(千卡/公斤)",
+                "平均決標價格\n(美元/公噸, 6,322 GAR)",
+                "決標當時市場參考價格\n(美元/公噸, 6,322 GAR)"
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 85,
+            "check_time": 1509068484,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "方小姐 (0223666752)",
+    "更新頻率": "每季",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2014/12/15",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/03/13 15:53",
+    "關鍵字": [
+        "2",
+        "燃煤現貨",
+        "價格"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "2687",
+        "下載次數:": "372",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "TXT"
+    ]
+}
