@@ -1,7 +1,7 @@
 {
     "title": "再生能源-風力發電產業年投資總額",
     "node": "32583",
-    "datapackage_version": "2017-11-02 06:16:38",
+    "datapackage_version": "2017-11-02 06:33:29",
     "資料集描述": "經濟部工業局即日起開放\r\n「台灣風力發電產業投資概況」資料集，\r\n歡迎各界多加利用\r\n綠能科技為蔡英文總統經濟政策中的五大創新產業計畫之一，目前經濟部明確訂定2025年離岸風電裝置容量達3GW，將以台灣離岸風場為我國產業鏈本土化練兵場域，建立本土化技術，鏈結國際搶攻亞太離岸風場開發市場。因應政府產業化政策，經濟部工業局推動我國廠商投入設備製造業、海事工程業等次產業之發展，並定期掌握相關投資現況。\r\n為提供民眾及各相關機構瞭解台灣風力發電產業投資概況，並配合政府推動資料開放措施，即日起開放「台灣風力發電產業投資概況」資料集下載，內容包含產業類別、投資類別、投資金額等，歡迎各界多加利用。",
     "主要欄位說明": "風力發電產業,投資類別,投資金額(千元)",
     "資料資源": {
@@ -44,7 +44,24 @@
             "資料資源更新時間": "2017/10/12 11:20",
             "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32583&md5_url=be2e087050bf4afb82aa616c8dddc091",
             "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32583&md5_url=be2e087050bf4afb82aa616c8dddc091",
-            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32583&md5_url=be2e087050bf4afb82aa616c8dddc091"
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32583&md5_url=be2e087050bf4afb82aa616c8dddc091",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "風力發電產業",
+                "投資類別",
+                "投資金額(千元)"
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 12,
+            "check_time": 1509073489,
+            "messages": []
         }
     },
     "提供機關": "經濟部工業局",
@@ -69,6 +86,6 @@
         "意見數:": "0"
     },
     "resource_type": [
-        "CSV"
+        "TXT"
     ]
 }
