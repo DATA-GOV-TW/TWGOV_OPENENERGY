@@ -1,0 +1,63 @@
+{
+    "title": "經濟部能源局_發電量統計表",
+    "node": "16481",
+    "datapackage_version": "2017-11-02 05:56:28",
+    "資料集描述": "1.資料內涵：我國近16年按能源別分類之發電量統計表\n2.收集目的：做為我國能源相關政策規劃與管理之依據。\n3.收集方式：由各能源供給端之能源供給及發電數據彙整計算而得。",
+    "主要欄位說明": "1.按能源別區分為：總計、抽蓄水力發電、燃煤發電、燃油發電、燃氣發電、核能發電，及再生能源。2.再生能源又細分為：合計、慣常水力發電、風力發電、太陽光電、生質能發電，及廢棄物能發電",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "1.按能源別區分為：總計、抽蓄水力發電、燃煤發電、燃油發電、燃氣發電、核能發電，及再生能源。2.再生能源又細分為：合計、慣常水力發電、風力發電、太陽光電、生質能發電，及廢棄物能發電",
+            "檔案格式": "ODS",
+            "編碼": "其他",
+            "資料量": "1",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=70",
+            "資源描述": "經濟部能源局-能源統計年報--個別能源-發電量統計表",
+            "資料資源更新時間": "2016/09/19 14:39",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=16481&md5_url=f2ff2b5fff9e5bff21c15029515d1530",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=16481&md5_url=f2ff2b5fff9e5bff21c15029515d1530",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=16481&md5_url=f2ff2b5fff9e5bff21c15029515d1530",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 2,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "項目",
+                "單位",
+                "數值"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "ods",
+            "amount": 99,
+            "check_time": 1509573376,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#723;0227721370#720;0227757723)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "1",
+        "發電量"
+    ],
+    "主題分類": "政府統計",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ECW/populace/content/ContentLink.aspx?menu_id=378",
+    "備註": "原資料集類型:其他\n授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "2427",
+        "下載次數:": "195",
+        "意見數:": "1"
+    },
+    "resource_type": [
+        "PDF"
+    ]
+}

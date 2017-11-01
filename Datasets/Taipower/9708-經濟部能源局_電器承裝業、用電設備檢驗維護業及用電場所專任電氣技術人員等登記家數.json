@@ -1,0 +1,59 @@
+{
+    "title": "電器承裝業、用電設備檢驗維護業及用電場所專任電氣技術人員等登記家數",
+    "node": "9708",
+    "datapackage_version": "2017-11-02 05:54:32",
+    "資料集描述": "當月全國「電器承裝業」、「用電設備檢驗維護業」及「用電場所專任電氣技術人員」登記家數統計資料表",
+    "主要欄位說明": "",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "0",
+            "資源網址": "http://www.eims-energy.tw/ecem_public/OpenDataFile.ashx?set_id=OD_001",
+            "資源描述": "查詢合格電器承裝業者及用電設備檢驗維護業者之相關資料。該查詢網站亦有公告焦點訊息、相關法令，以及提供申請書表",
+            "資料資源更新時間": "2017/10/16 17:18",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 0,
+            "fields": null,
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 0,
+            "check_time": 1509573260,
+            "messages": [
+                "[013] is_table_csv(): [csvlint]:\nLine #1 has error: wrong number of fields in line\nLine #2 has error: wrong number of fields in line\nLine #3 has error: wrong number of fields in line\nLine #4 has error: wrong number of fields in line\nLine #5 has error: wrong number of fields in line\nLine #6 has error: wrong number of fields in line\nLine #7 has error: wrong number of fields in line\nLine #8 has error: wrong number of fields in line\nLine #9 has error: wrong number of fields in line\nLine #10 has error: wrong number of fields in line\nLine #11 has error: wrong number of fields in line\nLine #12 has error: wrong number of fields in line\nLine #13 has error: wrong number of fields in line\nLine #14 has error: wrong number of fields in line\nLine #15 has error: wrong number of fields in line\nLine #16 has error: wrong number of fields in line\nLine #17 has error: wrong number of fields in line\nLine #18 has error: wrong number of fields in line\nLine #19 has error: wrong number of fields in line\nLine #20 has error: wrong number of fields in line\nLine #21 has error: wrong number of fields in line\nLine #22 has error: wrong number of fields in line\nLine #23 has error: wrong number of fields in line\nLine #24 has error: wrong number of fields in line\nLine #25 has error: wrong number of fields in line\nLine #26 has error: wrong number of fields in line\nLine #27 has error: wrong number of fields in line\nLine #28 has error: wrong number of fields in line\nLine #29 has error: wrong number of fields in line\nLine #30 has error: wrong number of fields in line\nLine #31 has error: wrong number of fields in line\n"
+            ]
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "戴先生 (0227721370#760;0227721370#720)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2014/12/16",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/12 14:34",
+    "關鍵字": [
+        "3",
+        "用電場所專任電氣技術人員",
+        "用電設備檢驗維護業",
+        "電器承裝業"
+    ],
+    "主題分類": "政府統計",
+    "服務分類": "公共資訊",
+    "相關網址": "http://ecem.iisigroup.com/ecem_public/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "2042",
+        "下載次數:": "173",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

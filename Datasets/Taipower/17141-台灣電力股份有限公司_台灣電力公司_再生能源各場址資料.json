@@ -1,0 +1,66 @@
+{
+    "title": "台灣電力公司_再生能源各場址資料",
+    "node": "17141",
+    "datapackage_version": "2017-11-02 05:56:32",
+    "資料集描述": "提供台電公司再生能源各場址名稱、製造商、型號、容量、安全調度日(倂聯且發電時數達96小時)、地址、座標",
+    "主要欄位說明": "場址名稱、製造商、型號、容量、安全調度日(倂聯且發電時數達96小時)、地址、座標",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "場址名稱、製造商、型號、容量、安全調度日(倂聯且發電時數達96小時)、地址、座標",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "50",
+            "資源網址": "http://data.taipower.com.tw/opendata/apply/file/d693002/台電再生能源各場址資料.csv",
+            "資源描述": "",
+            "資料資源更新時間": "2017/10/26 00:19",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=17141&md5_url=1ddbb8ca522b498ddba8def9981ba731",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=17141&md5_url=1ddbb8ca522b498ddba8def9981ba731",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=17141&md5_url=1ddbb8ca522b498ddba8def9981ba731",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "機 組\n(種類)",
+                "製造廠家\n區域\n(得標承商)",
+                "型　號",
+                "單機/片容量\n(kW)",
+                "安全調度日",
+                "地址",
+                "座標"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 42,
+            "check_time": 1508948395,
+            "messages": []
+        }
+    },
+    "提供機關": "台灣電力股份有限公司",
+    "提供機關聯絡人": "邱先生 (0426580151#3610;0426580151#3612)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/29",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/30 15:25",
+    "關鍵字": [
+        "2",
+        "太陽光電",
+        "風力"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "更新頻率說明: 有異動時\n授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "2471",
+        "下載次數:": "490",
+        "意見數:": "1"
+    },
+    "resource_type": [
+        "PDF"
+    ]
+}

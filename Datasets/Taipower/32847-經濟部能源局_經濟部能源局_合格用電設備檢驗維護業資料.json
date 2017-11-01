@@ -1,0 +1,64 @@
+{
+    "title": "經濟部能源局_合格用電設備檢驗維護業資料",
+    "node": "32847",
+    "datapackage_version": "2017-11-02 05:59:55",
+    "資料集描述": "提供一般民眾及業者查詢合格用電設備檢驗維護業登記資料，內容主要為登記地所屬機關、公司行號、營業地址、電話及所聘雇專業人員數量",
+    "主要欄位說明": "登記地所屬機關、公司行號、營業地址、電話、所聘雇專業人員數量",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "登記地所屬機關、公司行號、營業地址、電話、所聘雇專業人員數量",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "0",
+            "資源網址": "http://www.eims-energy.tw/ecem_public/OpenDataFile.ashx?set_id=OD_003",
+            "資源描述": "提供一般民眾及業者查詢合格用電設備檢驗維護業登記資料，內容主要為登記地所屬機關、公司行號、登記地址、電話及所聘雇專業人員數量。",
+            "資料資源更新時間": "2017/09/10 11:49",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32847&md5_url=0ccd0be52a3fd3cf367af1b6f7d5c175",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32847&md5_url=0ccd0be52a3fd3cf367af1b6f7d5c175",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32847&md5_url=0ccd0be52a3fd3cf367af1b6f7d5c175",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "登記地所屬機關",
+                "公司行號",
+                "營業地址",
+                "電話",
+                "所聘雇專業人員數量"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 233,
+            "check_time": 1509573583,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "戴先生 (0227721370#760)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/06/28",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/11 17:09",
+    "關鍵字": [
+        "1",
+        "合格用電設備檢驗維護業"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.eims-energy.tw/ecem_public/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "449",
+        "下載次數:": "33",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

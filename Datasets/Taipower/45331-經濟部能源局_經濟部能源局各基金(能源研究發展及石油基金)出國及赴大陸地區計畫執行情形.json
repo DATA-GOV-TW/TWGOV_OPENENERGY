@@ -1,0 +1,64 @@
+{
+    "title": "經濟部能源局各基金(能源研究發展及石油基金)出國及赴大陸地區計畫執行情形",
+    "node": "45331",
+    "datapackage_version": "2017-11-02 06:02:06",
+    "資料集描述": "揭露各基金預算書中之出國旅費及赴大陸地區旅費，並說明計畫內容及相關經費支出，使民眾、立法監督單位對於其執行情形有更進一步瞭解。",
+    "主要欄位說明": "項次、基金名稱、出國期間、計畫名稱、類別及內容簡述、執行數、備註",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "項次、基金名稱、出國期間、計畫名稱、類別及內容簡述、執行數、備註",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "9",
+            "資源網址": "http://www.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=154",
+            "資源描述": "經濟部能源局各基金(能源研究發展及石油基金)出國及赴大陸地區計畫執行情形",
+            "資料資源更新時間": "2017/05/08 19:35",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=45331&md5_url=dbdac2b7c45efea8762916a7b62fc23e",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=45331&md5_url=dbdac2b7c45efea8762916a7b62fc23e",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=45331&md5_url=dbdac2b7c45efea8762916a7b62fc23e",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "",
+                "經濟部能源局各基金",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 18,
+            "check_time": 1509573713,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "孔小姐 (0227557798)",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2017/05/10",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/05/10 14:34",
+    "關鍵字": [
+        "1",
+        "能源局各基金出國計畫"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "91",
+        "下載次數:": "4",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

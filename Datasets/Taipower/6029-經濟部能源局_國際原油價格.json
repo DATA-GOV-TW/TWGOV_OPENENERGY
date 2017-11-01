@@ -1,0 +1,64 @@
+{
+    "title": "國際原油價格",
+    "node": "6029",
+    "datapackage_version": "2017-11-02 05:54:00",
+    "資料集描述": "國際原油價格每週平均價格，包含西德州、杜拜及北海布蘭特",
+    "主要欄位說明": "日期、西德州(美元/桶)、杜拜(美元/桶)、北海布蘭特(美元/桶)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "日期、西德州(美元/桶)、杜拜(美元/桶)、北海布蘭特(美元/桶)",
+            "檔案格式": "TXT",
+            "編碼": "UTF-8",
+            "資料量": "3646",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=2",
+            "資源描述": "國際原油價格",
+            "資料資源更新時間": "2016/09/19 14:36",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=6029&md5_url=8360e8cdfd5d25891a553e67b549d234",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=6029&md5_url=8360e8cdfd5d25891a553e67b549d234",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=6029&md5_url=8360e8cdfd5d25891a553e67b549d234",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "日期",
+                "西德州(美元/桶)",
+                "杜拜(美元/桶)",
+                "布蘭特(美元/桶)"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 1000,
+            "check_time": 1509559698,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "莊先生 (0227721370#738;0227721370#720)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2013/03/28",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/03 11:43",
+    "關鍵字": [
+        "1",
+        "油價"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/oil102/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "16808",
+        "下載次數:": "2101",
+        "意見數:": "3"
+    },
+    "resource_type": [
+        "CSV",
+        "https://quality.data.gov.tw/dq_download_csv.php?nid=16459&md5_url=1b2705a4930d29fd3a96a883f7f5f8c6"
+    ]
+}

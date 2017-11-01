@@ -1,0 +1,66 @@
+{
+    "title": "全國能源會議背景資訊",
+    "node": "32854",
+    "datapackage_version": "2017-11-02 06:00:06",
+    "資料集描述": "第四次全國能源會議資料",
+    "主要欄位說明": "核心議題類別,子議題類別, 文件編號, 分項, 分項說明, 網址連結",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "核心議題類別,子議題類別, 文件編號, 分項, 分項說明, 網址連結",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1066",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=127",
+            "資源描述": "第四次全國能源會議資料",
+            "資料資源更新時間": "2017/10/16 17:20",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32854&md5_url=10927cf1d3b1e88523ed5f5a44a63218",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32854&md5_url=10927cf1d3b1e88523ed5f5a44a63218",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32854&md5_url=10927cf1d3b1e88523ed5f5a44a63218",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "核心議題",
+                "子議題",
+                "文件編號",
+                "分項",
+                "分項說明",
+                "連結"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 1000,
+            "check_time": 1508961028,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "游先生 (0227757675)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/06/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "3",
+        "全國能源會議",
+        "背景資訊",
+        "能源"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "333",
+        "下載次數:": "19",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "ODT"
+    ]
+}

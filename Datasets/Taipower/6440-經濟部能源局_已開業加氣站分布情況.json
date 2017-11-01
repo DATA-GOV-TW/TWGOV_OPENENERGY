@@ -1,0 +1,55 @@
+{
+    "title": "已開業加氣站分布情況",
+    "node": "6440",
+    "datapackage_version": "2017-11-02 05:54:09",
+    "資料集描述": "目前全臺灣地區已開業加氣站分布情形",
+    "主要欄位說明": "縣市別、站名、營業主體、地址、聯絡電話、營業時間",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "縣市別、站名、營業主體、地址、聯絡電話、營業時間",
+            "檔案格式": "TXT",
+            "編碼": "UTF-8",
+            "資料量": "54",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=1",
+            "資源描述": "目前全臺灣地區已開業加氣站分布情形",
+            "資料資源更新時間": "2017/10/16 17:18",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 0,
+            "encoding_match": 2,
+            "desc_match": 0,
+            "csv": 0,
+            "fields": [],
+            "encoding": null,
+            "file_type": "txt",
+            "amount": 0,
+            "check_time": 1508957259,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳先生 (0227721370#746;0227721370#720)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2013/10/17",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "加氣站"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ECW/populace/content/wfrmStatistics.aspx?type=8&menu_...",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "3165",
+        "下載次數:": "402",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "TXT"
+    ]
+}

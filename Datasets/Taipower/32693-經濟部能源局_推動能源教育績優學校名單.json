@@ -1,0 +1,62 @@
+{
+    "title": "推動能源教育績優學校名單",
+    "node": "32693",
+    "datapackage_version": "2017-11-02 05:59:39",
+    "資料集描述": "提供得獎名單檢索",
+    "主要欄位說明": "區域, 獎項, 學校名稱",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "區域, 獎項, 學校名稱",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "15",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=124",
+            "資源描述": "提供得獎名單檢索",
+            "資料資源更新時間": "2016/09/19 14:41",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32693&md5_url=b6865f58417a43df67f0cd207b92afc9",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32693&md5_url=b6865f58417a43df67f0cd207b92afc9",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32693&md5_url=b6865f58417a43df67f0cd207b92afc9",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "區域",
+                "獎項",
+                "學校名稱"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 15,
+            "check_time": 1509573567,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#783)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/06/28",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "2",
+        "教育",
+        "節約能源"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "303",
+        "下載次數:": "12",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

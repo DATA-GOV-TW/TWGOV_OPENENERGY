@@ -1,0 +1,53 @@
+{
+    "title": "臺北市ESCO能源技術服務業資訊",
+    "node": "35013",
+    "datapackage_version": "2017-11-02 06:00:47",
+    "資料集描述": "提供社區節能改造相關組織資訊",
+    "主要欄位說明": "提供臺北市ESCO能源技術服務業資訊",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "提供臺北市ESCO能源技術服務業資訊",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "9",
+            "資源網址": "http://opendata.epa.gov.tw/Data/OuterLink/?id=OTH01659&target=http://data.taipei/opendata/datalist/datasetMeta/download?id=297ce24c-8c0f-4f6d-8eea-3422b8fc7d0c&rid=5cdf900c-e3c3-4b2c-91b4-59c5c399e60d",
+            "資源描述": "臺北市ESCO能源技術服務業資訊",
+            "資料資源更新時間": "2017/05/17 20:36",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 0,
+            "structure": 2,
+            "encoding_match": 2,
+            "desc_match": 2,
+            "csv": 2,
+            "fields": [],
+            "encoding": "",
+            "file_type": "",
+            "amount": 0,
+            "check_time": "",
+            "messages": [
+                "[001] download_file(): cannot download directly."
+            ]
+        }
+    },
+    "提供機關": "行政院環境保護署",
+    "提供機關聯絡人": "范先生 (0227208889#1120)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/09/02",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/17 18:47",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "生活安全及品質",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "169",
+        "下載次數:": "15",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

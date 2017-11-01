@@ -1,0 +1,67 @@
+{
+    "title": "經濟部能源局_世界主要國家石油產品價格及稅率",
+    "node": "11767",
+    "datapackage_version": "2017-11-02 05:54:52",
+    "資料集描述": "1.資料內涵：主要國家汽柴油及燃料油之價格與稅率。\n2.收集目的：做為我國油品相關政策規劃與管理之依據。\n3.收集方式：由各油品供給端之網頁公告數據彙整而得。",
+    "主要欄位說明": "年月,國別,石油產品,計量,價格,稅前價,稅金,稅率",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年月,國別,石油產品,計量,價格,稅前價,稅金,稅率",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "238",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=29",
+            "資源描述": "經濟部能源局-能源供需統計-價格資料-世界主要國家石油產品價格及稅率",
+            "資料資源更新時間": "2016/09/19 14:37",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=11767&md5_url=0dada83f35473cd10dd2d4fb32cf63d7",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=11767&md5_url=0dada83f35473cd10dd2d4fb32cf63d7",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=11767&md5_url=0dada83f35473cd10dd2d4fb32cf63d7",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年月",
+                "國別",
+                "石油產品",
+                "計量",
+                "價格",
+                "稅前價",
+                "稅金",
+                "稅率"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 912,
+            "check_time": 1509573279,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#723;0227721370#720;0227757723)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/02/17",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "油品價格"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ECW/populace/content/ContentLink2.aspx?menu_id=380",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "2050",
+        "下載次數:": "203",
+        "意見數:": "1"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

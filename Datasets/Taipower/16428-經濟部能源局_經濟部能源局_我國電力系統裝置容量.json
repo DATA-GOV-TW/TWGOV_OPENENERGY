@@ -1,0 +1,61 @@
+{
+    "title": "經濟部能源局_我國電力系統裝置容量",
+    "node": "16428",
+    "datapackage_version": "2017-11-02 05:55:51",
+    "資料集描述": "統計台電公司提供之台灣地區電力系統總裝置容量及其配比，包含台電系統、民營火力電廠及合格汽電共生3大部分",
+    "主要欄位說明": "台電系統裝置容量、民營電廠裝置容量、汽電共生系統裝置容量、占比",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "台電系統裝置容量、民營電廠裝置容量、汽電共生系統裝置容量、占比",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "3",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=55",
+            "資源描述": "統計台電公司提供之台灣地區電力系統總裝置容量及其配比，包含台電系統、民營火力電廠及合格汽電共生3大部分",
+            "資料資源更新時間": "2016/09/19 14:38",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=16428&md5_url=041fcbe4c21884682bfb7088b718e868",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=16428&md5_url=041fcbe4c21884682bfb7088b718e868",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=16428&md5_url=041fcbe4c21884682bfb7088b718e868",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "來源別",
+                "千瓩",
+                "占比"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 4,
+            "check_time": 1509573339,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "沈先生 (0227721370#759;0227721370#720)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "1",
+        "台灣地區電力系統裝置容量"
+    ],
+    "主題分類": "政府統計",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "1259",
+        "下載次數:": "98",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "ODT"
+    ]
+}

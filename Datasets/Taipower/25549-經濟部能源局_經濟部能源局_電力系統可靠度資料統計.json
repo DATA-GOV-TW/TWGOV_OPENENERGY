@@ -1,0 +1,63 @@
+{
+    "title": "經濟部能源局_電力系統可靠度資料統計",
+    "node": "25549",
+    "datapackage_version": "2017-11-02 05:57:28",
+    "資料集描述": "系統平均停電時間SAIDI(System Average Interruption Duration Index)及系統平均停電次數SAIFI(System Average Interruption Frequency Index,SAIFI)係國際電業常用來衡量供電可靠度的指標，其數值越低越好。台電公司為我國唯一輸電業，在國內並無同級民營業者可比較，爰經濟部能源局整理我國及各國SAIDI與SAIFI數值，讓大家對電力系統可靠度有更深一層的了解與認知。",
+    "主要欄位說明": "年度、國家、SAIDI、SAIFI",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年度、國家、SAIDI、SAIFI",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "174",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=101",
+            "資源描述": "台灣與各國之SAIDI與SAIFI數值。",
+            "資料資源更新時間": "2016/09/19 14:40",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=25549&md5_url=4cc1b627878d21e69253b2ea3318b6d9",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=25549&md5_url=4cc1b627878d21e69253b2ea3318b6d9",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=25549&md5_url=4cc1b627878d21e69253b2ea3318b6d9",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "國家",
+                "SAIDI",
+                "SAIFI"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 157,
+            "check_time": 1509573435,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "李先生 (0227757757;0227721370#720)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/12/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "SAIDI、SAIFI"
+    ],
+    "主題分類": "政府統計",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.taipower.com.tw/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "819",
+        "下載次數:": "73",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "KML"
+    ]
+}

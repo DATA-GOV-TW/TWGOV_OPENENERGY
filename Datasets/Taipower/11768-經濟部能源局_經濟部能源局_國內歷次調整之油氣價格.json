@@ -1,0 +1,64 @@
+{
+    "title": "經濟部能源局_國內歷次調整之油氣價格",
+    "node": "11768",
+    "datapackage_version": "2017-11-02 05:54:53",
+    "資料集描述": "1.資料內涵：提供國內各項油氣價格調整資料。\r\n2.收集目的：做為我國油氣相關政策規劃與管理之依據。\r\n3.收集方式：由各油氣供給端之網頁公告數據彙整而得。",
+    "主要欄位說明": "日期，項目，計價單位，計量單位，單價",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "日期，項目，計價單位，計量單位，單價",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=30",
+            "資源描述": "經濟部能源局-能源供需統計-價格資料-國內歷次調整之油氣價格",
+            "資料資源更新時間": "2016/09/19 14:37",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=11768&md5_url=8ab8dac8c2c1dca5f52038a46eaba292",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=11768&md5_url=8ab8dac8c2c1dca5f52038a46eaba292",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=11768&md5_url=8ab8dac8c2c1dca5f52038a46eaba292",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "日期",
+                "項目",
+                "計價單位",
+                "計量單位",
+                "單價"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 1000,
+            "check_time": 1509573281,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#723;0227721370#720;0227757723)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/02/17",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/05/08 19:56",
+    "關鍵字": [
+        "1",
+        "油氣價格"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ECW/populace/content/ContentLink2.aspx?menu_id=380",
+    "備註": "原資料集類型:其他\n授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "1208",
+        "下載次數:": "201",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "ODS"
+    ]
+}

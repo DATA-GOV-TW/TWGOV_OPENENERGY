@@ -1,0 +1,63 @@
+{
+    "title": "經濟部能源局_進口液化天然氣供需平衡表",
+    "node": "36682",
+    "datapackage_version": "2017-11-02 06:00:59",
+    "資料集描述": "1.資料內涵：我國近16年進口液化天然氣供需數據統計表。\r\n2.蒐集目的：做為我國液化天然氣相關政策規劃與管理之依據。\r\n3.收集方式：由能源供給端之產銷數據彙整計算而得。",
+    "主要欄位說明": "1.總供給：進口、汽化投入、汽化產出、調整為天然氣數量。2.總需要：各部門消費。3.存貨變動。4.損耗。5.統計差異",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "1.總供給：進口、汽化投入、汽化產出、調整為天然氣數量。2.總需要：各部門消費。3.存貨變動。4.損耗。5.統計差異",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "900",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=147",
+            "資源描述": "1.資料內涵：我國近16年進口液化天然氣供需數據統計表。\r\n2.蒐集目的：做為我國液化天然氣相關政策規劃與管理之依據。\r\n3.收集方式：由能源供給端之產銷數據彙整計算而得。",
+            "資料資源更新時間": "2016/09/23 17:16",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=36682&md5_url=093651ae5aea8e94dd7c0d6e49e36f24",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=36682&md5_url=093651ae5aea8e94dd7c0d6e49e36f24",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=36682&md5_url=093651ae5aea8e94dd7c0d6e49e36f24",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "項目",
+                "計量單位",
+                "數量"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 480,
+            "check_time": 1509573647,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#723;0227721370#720;0227757723)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/09/29",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2016/09/29 00:08",
+    "關鍵字": [
+        "1",
+        "液化天然氣供需"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ecw/populace/content/ContentLink.aspx?menu_id=378",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "315",
+        "下載次數:": "22",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "TXT"
+    ]
+}

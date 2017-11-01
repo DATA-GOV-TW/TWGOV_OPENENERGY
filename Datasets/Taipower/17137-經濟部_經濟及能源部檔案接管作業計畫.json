@@ -1,0 +1,62 @@
+{
+    "title": "經濟及能源部檔案接管作業計畫",
+    "node": "17137",
+    "datapackage_version": "2017-11-02 05:56:30",
+    "資料集描述": "經濟部因應組織調整為經濟及能源部，有關檔案接管辦理期間、對象、範圍與作業期程。",
+    "主要欄位說明": "資料集名稱、主要欄位說明、資料集描述、網址連結",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "資料集名稱、主要欄位說明、資料集描述、網址連結",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1",
+            "資源網址": "http://www.moea.gov.tw/MNS/populace/content/wHandMenuFile.ashx?file_id=16086",
+            "資源描述": "經濟及能源部檔案接管作業計畫檔案下載",
+            "資料資源更新時間": "2017/10/16 11:22",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=17137&md5_url=d1585097bc464198deae5559f4232cc0",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=17137&md5_url=d1585097bc464198deae5559f4232cc0",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=17137&md5_url=d1585097bc464198deae5559f4232cc0",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "資料集名稱",
+                "主要欄位說明",
+                "資料集描述",
+                "網址連結"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 1,
+            "check_time": 1508948394,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部",
+    "提供機關聯絡人": "吳小姐 (0223212200#8432)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/10/18 10:13",
+    "關鍵字": [
+        "1",
+        "組織改造"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "原資料集類型:其他\n授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "657",
+        "下載次數:": "58",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "PDF"
+    ]
+}

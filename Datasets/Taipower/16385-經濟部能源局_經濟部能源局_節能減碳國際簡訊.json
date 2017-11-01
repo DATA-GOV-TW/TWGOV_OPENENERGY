@@ -1,0 +1,71 @@
+{
+    "title": "經濟部能源局_節能減碳國際簡訊",
+    "node": "16385",
+    "datapackage_version": "2017-11-02 05:55:13",
+    "資料集描述": "每月提供數十則節能減碳相關之國際簡訊供民眾參考。搜集主要概括：1.氣候公約談判2.氣候變遷減緩措施3.氣候變遷衝擊與調適4.氣候變遷與性別相關等議題",
+    "主要欄位說明": "議題類別、簡訊日期、簡訊標題、簡訊內容",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "議題類別、簡訊日期、簡訊標題、簡訊內容",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "7082",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=41",
+            "資源描述": "蒐集全球各研究機構與期刊之最新發展與報告，以及全球主要新聞媒體。",
+            "資料資源更新時間": "2016/09/19 14:37",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=16385&md5_url=fc5b3155ce4a2e50e7657ae2816e7ced",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=16385&md5_url=fc5b3155ce4a2e50e7657ae2816e7ced",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=16385&md5_url=fc5b3155ce4a2e50e7657ae2816e7ced",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "議題主類別",
+                "次分類",
+                "細分類",
+                "第四層分類",
+                "性別議題",
+                "區域別",
+                "簡訊日期",
+                "簡訊標題",
+                "簡訊內容",
+                "資料來源",
+                "資料網址"
+            ],
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 38,
+            "check_time": 1509573301,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "周小姐 (0227721370#718;0227721370#720)",
+    "更新頻率": "每月",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/06/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "國際簡訊"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.go-moea.tw/e-01.asp",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "981",
+        "下載次數:": "63",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "XML",
+        "XML"
+    ]
+}

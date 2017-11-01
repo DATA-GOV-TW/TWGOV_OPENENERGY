@@ -1,0 +1,63 @@
+{
+    "title": "經濟部能源局_電力消費統計表",
+    "node": "36683",
+    "datapackage_version": "2017-11-02 06:01:01",
+    "資料集描述": "1.資料內涵：我國近16年各部門電力消費數據統計表。\r\n2.蒐集目的：做為我國電力相關政策規劃與管理之依據。\r\n3.收集方式：由各電力供給端之銷售數據彙整計算而得。",
+    "主要欄位說明": "各部門電力消費、線路損失及統計差異",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "各部門電力消費、線路損失及統計差異",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1175",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=148",
+            "資源描述": "1.資料內涵：我國近16年各部門電力消費數據統計表。\r\n2.蒐集目的：做為我國電力相關政策規劃與管理之依據。\r\n3.收集方式：由各電力供給端之銷售數據彙整計算而得。",
+            "資料資源更新時間": "2016/09/23 17:05",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=36683&md5_url=b398a970b7e314009f25fdbc88ff8991",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=36683&md5_url=b398a970b7e314009f25fdbc88ff8991",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=36683&md5_url=b398a970b7e314009f25fdbc88ff8991",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "項目",
+                "計量單位",
+                "數量"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 656,
+            "check_time": 1509573649,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳小姐 (0227721370#723;0227721370#720;0227757723)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/09/29",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2016/09/29 00:25",
+    "關鍵字": [
+        "1",
+        "電力消費"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ecw/populace/content/ContentLink.aspx?menu_id=378",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "413",
+        "下載次數:": "51",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "TXT"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "能源政策-機關檔案目錄",
+    "node": "33477",
+    "datapackage_version": "2017-11-02 06:00:19",
+    "資料集描述": "為便捷民眾查詢能源政策相關之機關檔案目錄資料，提供已公開於機關檔案目錄查詢網(NEAR)所查詢能源政策相關之查詢字串、符合筆數及網址。",
+    "主要欄位說明": "Source Field name(來源)、Description Field name(描述)、Remark Field name(備註)、Keyword Field name(查詢字串)、URL Field name(網址)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "Source Field name(來源)、Description Field name(描述)、Remark Field name(備註)、Keyword Field name(查詢字串)、URL Field name(網址)",
+            "檔案格式": "JSON",
+            "編碼": "UTF-8",
+            "資料量": "10",
+            "資源網址": "http://www.archives.gov.tw/opendata/能源政策_機關檔案目錄.json",
+            "資源描述": "從機關檔案目錄查詢網(NEAR)擷取已開放之機關檔案目錄資料，逐年更新。",
+            "資料資源更新時間": "2017/10/30 14:56",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 0,
+            "fields": [],
+            "encoding": "UTF-8",
+            "file_type": "json",
+            "amount": 0,
+            "check_time": 1509346564,
+            "messages": [
+                "[011] array_of_field_object(): 非物件陣列。\n\n[011] array_of_field_array(): 非二維陣列或是非單層結構。\n\n"
+            ]
+        }
+    },
+    "提供機關": "國家發展委員會檔案管理局",
+    "提供機關聯絡人": "許先生 (0289953557;0289953542)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/09/21",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2016/12/06 14:17",
+    "關鍵字": [
+        "2",
+        "機關檔案目錄",
+        "能源政策"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "https://near.archives.gov.tw/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "161",
+        "下載次數:": "18",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "JSON"
+    ]
+}

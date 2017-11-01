@@ -1,0 +1,64 @@
+{
+    "title": "經濟部能源局_石油業儲油設備代行檢查機構名冊資訊",
+    "node": "25536",
+    "datapackage_version": "2017-11-02 05:57:22",
+    "資料集描述": "能源局依法為石油業代行檢查機構之管理單位，對於已申請指定為代行檢查機構，為強化政府資訊之公開，爰提供業者之基本連絡資訊。",
+    "主要欄位說明": "編號(流水號)、石油業儲油設備代行檢查機構名稱(機構名稱)、代行檢查業務主管(負責人)、機構地址(設置地址)、電話(辦公室電話)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "編號(流水號)、石油業儲油設備代行檢查機構名稱(機構名稱)、代行檢查業務主管(負責人)、機構地址(設置地址)、電話(辦公室電話)",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "4",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=89",
+            "資源描述": "石油業儲油設備代行檢查機構名冊",
+            "資料資源更新時間": "2017/10/16 17:20",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=25536&md5_url=b071b6e74a87bd9fc9a931b336fb771c",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=25536&md5_url=b071b6e74a87bd9fc9a931b336fb771c",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=25536&md5_url=b071b6e74a87bd9fc9a931b336fb771c",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "編號",
+                "石油業儲油設備代行檢查機構名稱",
+                "代行檢查業務主管",
+                "機構地址",
+                "電話"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 4,
+            "check_time": 1508953843,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "周先生 (0227757749;0227721370#749;0227721370#720)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/12/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "1",
+        "石油業代行檢查機構"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://web3.moeaboe.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=663",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "745",
+        "下載次數:": "24",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

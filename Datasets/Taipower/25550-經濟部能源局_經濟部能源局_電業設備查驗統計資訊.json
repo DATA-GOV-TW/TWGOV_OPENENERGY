@@ -1,0 +1,66 @@
+{
+    "title": "經濟部能源局_電業設備查驗統計資訊",
+    "node": "25550",
+    "datapackage_version": "2017-11-02 05:57:29",
+    "資料集描述": "電力為工業之母，在經濟發展的過程中，扮演極為重要的角色，經濟部能源局為了讓民眾瞭解我國電力系統概況，整理我國各發電廠機組數量與裝置容量之統計相關資料，讓大家對我國電力來源有更深一層的了解與認知。",
+    "主要欄位說明": "年度、公民營電業、發電類別、電廠名稱、分廠機組別、電廠內機組數量、總裝置容量(kW)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "年度、公民營電業、發電類別、電廠名稱、分廠機組別、電廠內機組數量、總裝置容量(kW)",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "94",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=91",
+            "資源描述": "台電公司以及民營發電廠機組裝置統計概況。",
+            "資料資源更新時間": "2016/09/19 14:40",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=25550&md5_url=d314d4c34bd042aea409060c4f3c4443",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=25550&md5_url=d314d4c34bd042aea409060c4f3c4443",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=25550&md5_url=d314d4c34bd042aea409060c4f3c4443",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "年度",
+                "公民營電業",
+                "發電類別",
+                "電廠名稱",
+                "分廠機組別",
+                "電廠內機組數量",
+                "總裝置容量(kW)"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 93,
+            "check_time": 1509573437,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "李先生 (0227757757;0227721370#720)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/12/30",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "電廠"
+    ],
+    "主題分類": "政府統計",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.taipower.com.tw/",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "855",
+        "下載次數:": "38",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "KML"
+    ]
+}

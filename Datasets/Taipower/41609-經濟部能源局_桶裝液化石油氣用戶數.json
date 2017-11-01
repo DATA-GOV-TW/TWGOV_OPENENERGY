@@ -1,0 +1,62 @@
+{
+    "title": "桶裝液化石油氣用戶數",
+    "node": "41609",
+    "datapackage_version": "2017-11-02 06:01:27",
+    "資料集描述": "國內桶裝液化石油氣用戶數",
+    "主要欄位說明": "區域,\"房屋稅籍住宅數\",\"天然氣用戶數\",104年桶裝液化石油氣用戶數(內政部營建署)",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "區域,\"房屋稅籍住宅數\",\"天然氣用戶數\",104年桶裝液化石油氣用戶數(內政部營建署)",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1",
+            "資源網址": "https://www.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=153",
+            "資源描述": "國內桶裝液化石油氣用戶數",
+            "資料資源更新時間": "2016/12/22 16:28",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=41609&md5_url=df3894d13b95a6a8f70c8b501148db15",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=41609&md5_url=df3894d13b95a6a8f70c8b501148db15",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=41609&md5_url=df3894d13b95a6a8f70c8b501148db15",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "區域",
+                "房屋稅籍住宅數\n(內政部營建署)",
+                "天然氣用戶數\n(經濟部能源局)",
+                "104年桶裝液化石油氣用戶數"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 28,
+            "check_time": 1509573675,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "陳先生 (0227557740;0227757740;0227721370#720)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/12/27",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2016/12/27 20:15",
+    "關鍵字": [
+        "1",
+        "桶裝液化石油氣用戶數"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "250",
+        "下載次數:": "48",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

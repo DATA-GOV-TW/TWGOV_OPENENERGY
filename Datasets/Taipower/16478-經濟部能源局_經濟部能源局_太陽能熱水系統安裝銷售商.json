@@ -1,0 +1,63 @@
+{
+    "title": "經濟部能源局_太陽能熱水系統安裝銷售商",
+    "node": "16478",
+    "datapackage_version": "2017-11-02 05:56:20",
+    "資料集描述": "依再生能源熱利用獎勵補助辦法第12條規定申請簽約之太陽能熱水系統安裝銷售商，並登錄於資訊平台，提供全省銷售據點，供民眾查詢。",
+    "主要欄位說明": "認可編號、廠商名稱、電話、地址、備註",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "認可編號、廠商名稱、電話、地址、備註",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "430",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=67",
+            "資源描述": "依再生能源熱利用獎勵補助辦法第12條規定申請簽約之太陽能熱水系統安裝銷售商，並將認可編號、廠商名稱、電話及地址登錄於資訊平台。",
+            "資料資源更新時間": "2017/10/16 17:20",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=16478&md5_url=7061cbc3a8f291e661901caba4d2b3b8",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=16478&md5_url=7061cbc3a8f291e661901caba4d2b3b8",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=16478&md5_url=7061cbc3a8f291e661901caba4d2b3b8",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "認可編號",
+                "申請廠商名稱",
+                "電話",
+                "地址",
+                "備註"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 436,
+            "check_time": 1508947860,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "許先生 (0227721370#615;0227721370#720)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/07/02",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/09/05 14:04",
+    "關鍵字": [
+        "1",
+        "安裝銷售商"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "670",
+        "下載次數:": "27",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

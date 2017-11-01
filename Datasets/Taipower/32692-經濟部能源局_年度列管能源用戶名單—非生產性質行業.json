@@ -1,0 +1,62 @@
+{
+    "title": "年度列管能源用戶名單—非生產性質行業",
+    "node": "32692",
+    "datapackage_version": "2017-11-02 05:59:37",
+    "資料集描述": "依能源管理法第9條規定列管台電用電契約達800kW以上之能源用戶名單",
+    "主要欄位說明": "能源用戶名稱、所在區域",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "能源用戶名稱、所在區域",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "1432",
+            "資源網址": "http://web3.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=123",
+            "資源描述": "依能源管理法第9條規定列管台電用電契約達800kW以上之能源用戶名單",
+            "資料資源更新時間": "2016/09/19 14:41",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=32692&md5_url=822606c6b2c60740bf954c852934392d",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=32692&md5_url=822606c6b2c60740bf954c852934392d",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=32692&md5_url=822606c6b2c60740bf954c852934392d",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "能源用戶名稱",
+                "所在區域"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 1000,
+            "check_time": 1509573565,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "葉先生 (0227721370#648)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2016/06/28",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/31 17:11",
+    "關鍵字": [
+        "3",
+        "能源查核",
+        "能源用戶",
+        "能源管理法"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "684",
+        "下載次數:": "93",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

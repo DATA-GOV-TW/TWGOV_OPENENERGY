@@ -1,0 +1,68 @@
+{
+    "title": "ESCO（能源技術服務業）資訊",
+    "node": "26033",
+    "datapackage_version": "2017-11-02 05:57:43",
+    "資料集描述": "幫客戶省電節能的行業(ESCO)廠商，運用能源管理技術，從照明、太陽、空調等多方面服務運作，以達省電之目的。",
+    "主要欄位說明": "公司名稱、姓名、電話、手機、e-mail、地址、類別",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "公司名稱、姓名、電話、手機、e-mail、地址、類別",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "9",
+            "資源網址": "http://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=ee2cb68e-979a-4db1-b199-db50fcee6c36&rid=eebe319e-367f-4cc4-b2fa-b559caf3fb90",
+            "資源描述": "ESCO廠商名單整理",
+            "資料資源更新時間": "2017/10/12 04:17",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=26033&md5_url=9da15ce178054000dab8c455addfee04",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=26033&md5_url=9da15ce178054000dab8c455addfee04",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=26033&md5_url=9da15ce178054000dab8c455addfee04",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 1,
+            "csv": 1,
+            "fields": [
+                "公司名稱",
+                "姓名",
+                "電話",
+                "手機",
+                "e-mail",
+                "地址",
+                "類別"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 20,
+            "check_time": 1509432146,
+            "messages": []
+        }
+    },
+    "提供機關": "桃園市政府環境保護局",
+    "提供機關聯絡人": "陳小姐 (033386021#2122)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2015/12/25",
+    "資料集類型": "系統介接程式",
+    "詮釋資料更新時間": "2017/08/11 01:39",
+    "關鍵字": [
+        "4",
+        "ESCO",
+        "環保局",
+        "公共資訊",
+        "節能減碳"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "803",
+        "下載次數:": "40",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

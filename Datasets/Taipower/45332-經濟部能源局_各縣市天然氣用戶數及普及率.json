@@ -1,0 +1,63 @@
+{
+    "title": "各縣市天然氣用戶數及普及率",
+    "node": "45332",
+    "datapackage_version": "2017-11-02 06:02:07",
+    "資料集描述": "依縣市別提供天然氣用氣戶數及普及率數據資料，俾民眾瞭解各縣市天然氣使用情形。",
+    "主要欄位說明": "縣市別、年月、設籍戶數、天然氣用戶數、天然氣普及率",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "縣市別、年月、設籍戶數、天然氣用戶數、天然氣普及率",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "16",
+            "資源網址": "http://www.moeaboe.gov.tw/ECW/populace/opendata/wHandOpenData_File.ashx?set_id=155",
+            "資源描述": "各縣市天然氣用戶數及普及率",
+            "資料資源更新時間": "2017/05/08 19:35",
+            "CSV 下載": "https://quality.data.gov.tw/dq_download_csv.php?nid=45332&md5_url=113e2491247522f30a5928f54c53f05d",
+            "XML 下載": "https://quality.data.gov.tw/dq_download_xml.php?nid=45332&md5_url=113e2491247522f30a5928f54c53f05d",
+            "JSON 下載": "https://quality.data.gov.tw/dq_download_json.php?nid=45332&md5_url=113e2491247522f30a5928f54c53f05d",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 1,
+            "desc_match": 0,
+            "csv": 1,
+            "fields": [
+                "縣市別",
+                "年月",
+                "設籍戶數",
+                "天然氣用戶數",
+                "天然氣普及率(%)"
+            ],
+            "encoding": "UTF-8",
+            "file_type": "csv",
+            "amount": 16,
+            "check_time": 1509573716,
+            "messages": []
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "林小姐 (0227557743)",
+    "更新頻率": "每年",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2017/05/09",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/05/09 11:15",
+    "關鍵字": [
+        "1",
+        "天然氣、普及率"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "217",
+        "下載次數:": "44",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}

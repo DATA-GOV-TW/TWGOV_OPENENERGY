@@ -1,0 +1,57 @@
+{
+    "title": "經濟部能源局_電熱水瓶節能標章有效獲證資訊",
+    "node": "45329",
+    "datapackage_version": "2017-11-02 06:02:00",
+    "資料集描述": "提供電熱水瓶能源效率相關資訊，作為消費者選購產品之參考，使消費者在選購產品時，能以簡易之方式分辨節能產品。經濟部能源局透過節能標章驗證制度，提供我國高效率產品之驗證，通過節能標章驗證的產品，代表其為同類型產品前30%之高能源效率產品。",
+    "主要欄位說明": "項次、產品型號、商標名稱、標示使用公司、合約編號、起約日期、迄約日期、產地、效率基準、測試報告能源效率",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "項次、產品型號、商標名稱、標示使用公司、合約編號、起約日期、迄約日期、產地、效率基準、測試報告能源效率",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "32",
+            "資源網址": "http://61.219.118.186/energylbapply/_outweb/gen/opendata/經濟部能源局_電熱水瓶節能標章有效獲證資訊.csv",
+            "資源描述": "電熱水瓶節能標章有效獲證資訊",
+            "資料資源更新時間": "2017/10/16 17:21",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 0,
+            "fields": null,
+            "encoding": "BIG5",
+            "file_type": "csv",
+            "amount": 0,
+            "check_time": 1508999860,
+            "messages": [
+                "[013] is_table_csv(): [csvlint]:\nLine #1 has error: wrong number of fields in line\nLine #2 has error: wrong number of fields in line\nLine #3 has error: wrong number of fields in line\nLine #4 has error: wrong number of fields in line\nLine #5 has error: wrong number of fields in line\nLine #6 has error: wrong number of fields in line\nLine #7 has error: wrong number of fields in line\nLine #8 has error: wrong number of fields in line\nLine #9 has error: wrong number of fields in line\nLine #10 has error: wrong number of fields in line\nLine #11 has error: wrong number of fields in line\nLine #12 has error: wrong number of fields in line\nLine #13 has error: wrong number of fields in line\nLine #14 has error: wrong number of fields in line\nLine #15 has error: wrong number of fields in line\nLine #16 has error: wrong number of fields in line\nLine #17 has error: wrong number of fields in line\nLine #18 has error: wrong number of fields in line\nLine #19 has error: wrong number of fields in line\nLine #20 has error: wrong number of fields in line\nLine #21 has error: wrong number of fields in line\nLine #22 has error: wrong number of fields in line\nLine #23 has error: wrong number of fields in line\nLine #24 has error: wrong number of fields in line\nLine #25 has error: wrong number of fields in line\nLine #26 has error: wrong number of fields in line\nLine #27 has error: wrong number of fields in line\nLine #28 has error: wrong number of fields in line\nLine #29 has error: wrong number of fields in line\nLine #30 has error: wrong number of fields in line\nLine #31 has error: wrong number of fields in line\nLine #32 has error: wrong number of fields in line\nLine #33 has error: wrong number of fields in line\nLine #34 has error: wrong number of fields in line\nLine #35 has error: wrong number of fields in line\nLine #36 has error: wrong number of fields in line\nLine #37 has error: wrong number of fields in line\nLine #38 has error: wrong number of fields in line\n"
+            ]
+        }
+    },
+    "提供機關": "經濟部能源局",
+    "提供機關聯絡人": "謝先生 (0227557779)",
+    "更新頻率": "不定期",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2017/05/10",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/05/10 14:50",
+    "關鍵字": [
+        "1",
+        "節能標章登錄資訊"
+    ],
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "相關網址": "http://www.energylabel.org.tw/other/opendata/list.aspx",
+    "備註": "授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "70",
+        "下載次數:": "4",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}
